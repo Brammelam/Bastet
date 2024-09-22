@@ -4,6 +4,11 @@
   "description": "A roguelite deckbuilder featuring cats",
   "icons": [
     {
+      "src": "icons/icon-30.png",
+      "sizes": "30x30",
+      "type": "image/png"
+    },
+    {
       "src": "icons/icon-48.png",
       "sizes": "48x48",
       "type": "image/png"
@@ -14,13 +19,38 @@
       "type": "image/png"
     },
     {
+      "src": "icons/icon-76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
       "src": "icons/icon-96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
+      "src": "icons/icon-120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
       "src": "icons/icon-144.png",
       "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-167.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-180.png",
+      "sizes": "180x180",
       "type": "image/png"
     },
     {

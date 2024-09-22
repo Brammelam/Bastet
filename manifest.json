@@ -1,0 +1,22 @@
+{
+  "name": "Bastet's Corporate Climb'",
+  "short_name": "Bastet",
+  "description": "A roguelite deckbuilder featuring cats",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
